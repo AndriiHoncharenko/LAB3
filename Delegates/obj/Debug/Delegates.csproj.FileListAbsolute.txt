@@ -1,0 +1,6 @@
+F:\ANGN\CLabs\Current\C\Delegates\bin\Debug\Delegates.exe.config
+F:\ANGN\CLabs\Current\C\Delegates\bin\Debug\Delegates.exe
+F:\ANGN\CLabs\Current\C\Delegates\bin\Debug\Delegates.pdb
+F:\ANGN\CLabs\Current\C\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\Current\C\Delegates\obj\Debug\Delegates.exe
+F:\ANGN\CLabs\Current\C\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,11 @@
+F:\ANGN\CLabs\Current\C\MessagesForm\obj\Debug\MessagesForm.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\Current\C\MessagesForm\obj\Debug\MessagesForm.Messages.resources
+F:\ANGN\CLabs\Current\C\MessagesForm\obj\Debug\MessagesForm.Properties.Resources.resources
+F:\ANGN\CLabs\Current\C\MessagesForm\obj\Debug\MessagesForm.csproj.GenerateResource.Cache
+F:\ANGN\CLabs\Current\C\MessagesForm\bin\Debug\MessagesForm.exe.config
+F:\ANGN\CLabs\Current\C\MessagesForm\bin\Debug\MessagesForm.exe
+F:\ANGN\CLabs\Current\C\MessagesForm\bin\Debug\MessagesForm.pdb
+F:\ANGN\CLabs\Current\C\MessagesForm\bin\Debug\MobilePhone.dll
+F:\ANGN\CLabs\Current\C\MessagesForm\bin\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\Current\C\MessagesForm\obj\Debug\MessagesForm.exe
+F:\ANGN\CLabs\Current\C\MessagesForm\obj\Debug\MessagesForm.pdb
