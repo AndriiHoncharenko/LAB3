@@ -19,3 +19,10 @@ F:\ANGN\CLabs\1305\C\UnitTestMobilePhone\bin\Debug\MobilePhone.pdb
 F:\ANGN\CLabs\1305\C\UnitTestMobilePhone\obj\Debug\UnitTestMobilePhone.csprojResolveAssemblyReference.cache
 F:\ANGN\CLabs\1305\C\UnitTestMobilePhone\obj\Debug\UnitTestMobilePhone.dll
 F:\ANGN\CLabs\1305\C\UnitTestMobilePhone\obj\Debug\UnitTestMobilePhone.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\bin\Debug\UnitTestMobilePhone.dll
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\bin\Debug\UnitTestMobilePhone.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\bin\Debug\MobilePhone.dll
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\bin\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\obj\Debug\UnitTestMobilePhone.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\obj\Debug\UnitTestMobilePhone.dll
+F:\ANGN\CLabs\LAB3_corr\LAB3\UnitTestMobilePhone\obj\Debug\UnitTestMobilePhone.pdb

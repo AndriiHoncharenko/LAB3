@@ -27,7 +27,7 @@ namespace UnitTestMobilePhone.Messages
              
             MobilePhone.MessageStorage.Capacity = expectedMessages.Count;
             MobilePhone.StartMessaging();
-            System.Threading.Thread.Sleep(1000);
+            System.Threading.Thread.Sleep(3000);
 
             
             Assert.AreEqual(expectedMessages.Count, MobilePhone.MessageStorage.Count());

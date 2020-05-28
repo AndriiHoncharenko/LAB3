@@ -16,7 +16,7 @@ namespace MobilePhone.Messages
 
         }
         public int NumberOfMessages { get; private set; }
-        public int TimeInterval { get; set; } = 100;
+        public int TimeInterval { get; set; } = 1100;
         public bool IsRunning { get; protected set; } = true;
         public int Counter { get; private set; } = 1;
         public string[] PhoneBook { get; private set; } = new string[5] { "A", "B","BB","C","D" };
@@ -35,12 +35,12 @@ namespace MobilePhone.Messages
 
         public void SimulateSMS()
         {
-            bool simulateOn = true;
-            while (simulateOn)
+            
+            while (true)
             {
-                if (IsRunning )
+                if (IsRunning && ( Counter <= NumberOfMessages))
                 {
-                    simulateOn = Counter < NumberOfMessages;
+                    
                     SMSReceived.Invoke(GenerateMessage());
                 }
                 Thread.Sleep(TimeInterval);

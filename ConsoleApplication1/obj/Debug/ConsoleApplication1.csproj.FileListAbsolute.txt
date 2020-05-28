@@ -22,3 +22,11 @@ F:\ANGN\CLabs\1305\C\ConsoleApplication1\bin\Debug\MobilePhone.pdb
 F:\ANGN\CLabs\1305\C\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 F:\ANGN\CLabs\1305\C\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\ANGN\CLabs\1305\C\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\bin\Debug\MobilePhone.dll
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\bin\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\ANGN\CLabs\LAB3_corr\LAB3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

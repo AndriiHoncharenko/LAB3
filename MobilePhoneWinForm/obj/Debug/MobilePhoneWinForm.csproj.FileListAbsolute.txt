@@ -31,3 +31,14 @@ F:\ANGN\CLabs\1305\C\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.Properties.
 F:\ANGN\CLabs\1305\C\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.csproj.GenerateResource.Cache
 F:\ANGN\CLabs\1305\C\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.exe
 F:\ANGN\CLabs\1305\C\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\bin\Debug\MobilePhoneWinForm.exe.config
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\bin\Debug\MobilePhoneWinForm.exe
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\bin\Debug\MobilePhoneWinForm.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\bin\Debug\MobilePhone.dll
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\bin\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.Form2.resources
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.Properties.Resources.resources
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.csproj.GenerateResource.Cache
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.exe
+F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhoneWinForm\obj\Debug\MobilePhoneWinForm.pdb

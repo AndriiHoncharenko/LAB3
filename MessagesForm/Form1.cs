@@ -56,18 +56,6 @@ namespace MessagesForm
             //}
         }
 
-        //private void disableButton_CheckedChanged(object sender, EventArgs e)
-        //{
-        //    if (disableButton.Checked)
-        //    {
-        //        MobilePhone.StopMessaging();
-        //    }
-        //    else if (enableButton.Checked)
-        //    {
-        //        MobilePhone.StartMessaging();
-        //    }
-        //}
-
         private void enableButton_CheckedChanged(object sender, EventArgs e)
         {
             if (disableButton.Checked)

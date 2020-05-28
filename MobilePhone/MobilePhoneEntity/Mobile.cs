@@ -60,15 +60,10 @@ namespace MobilePhone.MobilePhoneEntity
         {
             try
             {
-
                 if (SMSProvider == null)
                 {
                     SMSProvider = new MessagesProviderEntity(MessageStorage.Capacity);
-
-
                     SMSProvider.SMSReceived += new SMSReceivedDelegate(MessageStorage.AddMessage);
-
-
                 }
                 SMSProvider.StartMessaging();
             }
