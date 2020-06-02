@@ -19,7 +19,7 @@ namespace MobilePhone.Messages
         public int TimeInterval { get; set; } = 1100;
         public bool IsRunning { get; protected set; } = true;
         public int Counter { get; private set; } = 1;
-        public string[] PhoneBook { get; private set; } = new string[5] { "A", "B","BB","C","D" };
+        public string[] PhoneBook { get; private set; } = new string[4] { "A", "B","C","D" };
 
         public string[] PhoneBookNumbers { get; private set; } = new string[5] { "1111", "2222","3333", "4444", "5555" };
 

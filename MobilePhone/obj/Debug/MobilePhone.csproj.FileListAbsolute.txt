@@ -34,3 +34,9 @@ F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhone\bin\Debug\MobilePhone.pdb
 F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhone\obj\Debug\MobilePhone.csprojResolveAssemblyReference.cache
 F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhone\obj\Debug\MobilePhone.dll
 F:\ANGN\CLabs\LAB3_corr\LAB3\MobilePhone\obj\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\LAB4\LAB3\MobilePhone\bin\Debug\MobilePhone.dll.config
+F:\ANGN\CLabs\LAB4\LAB3\MobilePhone\bin\Debug\MobilePhone.dll
+F:\ANGN\CLabs\LAB4\LAB3\MobilePhone\bin\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\LAB4\LAB3\MobilePhone\obj\Debug\MobilePhone.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\LAB4\LAB3\MobilePhone\obj\Debug\MobilePhone.dll
+F:\ANGN\CLabs\LAB4\LAB3\MobilePhone\obj\Debug\MobilePhone.pdb

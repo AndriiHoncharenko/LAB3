@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="AudioTest\IphoneAudioTest.cs" />
     <Compile Include="ChargeTest\WirelessChargeTest.cs" />
+    <Compile Include="Messages\FilterMessageTest.cs" />
     <Compile Include="Messages\MessagesEventsTest.cs" />
     <Compile Include="Messages\MessagesformaterTest.cs" />
     <Compile Include="MockResult.cs" />

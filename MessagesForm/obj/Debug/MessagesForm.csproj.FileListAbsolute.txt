@@ -20,3 +20,14 @@ F:\ANGN\CLabs\LAB3_corr\LAB3\MessagesForm\obj\Debug\MessagesForm.Properties.Reso
 F:\ANGN\CLabs\LAB3_corr\LAB3\MessagesForm\obj\Debug\MessagesForm.csproj.GenerateResource.Cache
 F:\ANGN\CLabs\LAB3_corr\LAB3\MessagesForm\obj\Debug\MessagesForm.exe
 F:\ANGN\CLabs\LAB3_corr\LAB3\MessagesForm\obj\Debug\MessagesForm.pdb
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\bin\Debug\MessagesForm.exe.config
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\bin\Debug\MessagesForm.exe
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\bin\Debug\MessagesForm.pdb
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\bin\Debug\MobilePhone.dll
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\bin\Debug\MobilePhone.pdb
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\obj\Debug\MessagesForm.csprojResolveAssemblyReference.cache
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\obj\Debug\MessagesForm.Messages.resources
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\obj\Debug\MessagesForm.Properties.Resources.resources
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\obj\Debug\MessagesForm.csproj.GenerateResource.Cache
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\obj\Debug\MessagesForm.exe
+F:\ANGN\CLabs\LAB4\LAB3\MessagesForm\obj\Debug\MessagesForm.pdb

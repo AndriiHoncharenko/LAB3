@@ -47,13 +47,7 @@ namespace MessagesForm
         private void clearButton_Click(object sender, EventArgs e)
         {
             messageslistView.Items.Clear();
-            //foreach (var message in MobilePhone.MessageStorage.GetMessages())
-            //{
-            //    string[] row = new string[] { message.User + message.Number, MessagesFormater.FormaterMethod(message).ToString() };
-            //    var item = new ListViewItem(row);
-            //    messageslistView.Items.Add(item);
-                
-            //}
+            
         }
 
         private void enableButton_CheckedChanged(object sender, EventArgs e)
@@ -77,6 +71,47 @@ namespace MessagesForm
                 MessagesFormater.UpperCaseFormat
             };
             MessagesFormater.FormaterMethod = formatDelegates[formatingComboBox.SelectedIndex];
+        }
+
+        private void userBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            SetFilter();
+        }
+
+        private void textBox_TextChanged(object sender, EventArgs e)
+        {
+            SetFilter();
+        }
+
+        private void fromDatePicker_ValueChanged(object sender, EventArgs e)
+        {
+            SetFilter();
+        }
+
+        private void toDatePicker_ValueChanged(object sender, EventArgs e)
+        {
+            SetFilter();
+        }
+        private void SetFilter()
+        {
+            
+            var user = userBox.SelectedItem.ToString();
+            var text = textBox.Text;
+            var fromDate = fromDatePicker.Value;
+            var toDate = toDatePicker.Value;
+            MobilePhone.MessageStorage.SetFilter(user, text, fromDate, toDate);
+        }
+
+        private void FilteredShow_Click(object sender, EventArgs e)
+        {
+            messageslistView.Items.Clear();
+            foreach (var message in MobilePhone.MessageStorage.GetFilteredMessages())
+            {              
+                string[] row = new string[] { message.User + message.Number, MessagesFormater.FormaterMethod(message).ToString() };
+                var item = new ListViewItem(row);
+                messageslistView.Items.Add(item);
+
+            }
         }
     }
 }
